@@ -1,0 +1,9 @@
+name: xproperty-docs
+
+channels:
+  - conda-forge
+
+dependencies:
+  - sphinx
+  - pip:
+    - breathe
